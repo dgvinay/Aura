@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Framework", "Framework", "{12DEC587-FB32-49A1-9B99-32890346A5AF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTests", "UnitTests", "{65B1DC3A-8463-4820-A774-35F5B796AEC2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aura.Common", "Framework\Aura.Common\Aura.Common.csproj", "{99DBA9C9-2EC4-496E-BD4E-3357626719B0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aura.Core", "Framework\Aura.Core\Aura.Core.csproj", "{34D27727-5259-495F-AE57-DEFCA493BC3A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Facade", "Facade", "{684EBD0D-859E-4BAA-B24D-1376CCCB55A1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aura.UI", "Facade\Aura.UI\Aura.UI.csproj", "{30A85AD4-42E8-433F-9592-68F1F2E6D2CC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aura.Infrastructure", "Facade\Aura.Infrastructure\Aura.Infrastructure.csproj", "{7DF79FAE-8B56-4ABA-98AD-2CC4167EA962}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aura.Core.UnitTest", "UnitTests\Aura.Core.UnitTest\Aura.Core.UnitTest.csproj", "{9344D6BF-5BDD-4750-BFD7-EFC38F097BF8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "External", "External", "{3C1479AD-3F4F-4C98-A934-91CC8E2083E4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{28713582-1AB4-4F1E-9F96-318C0B752A26}"
+	ProjectSection(SolutionItems) = preProject
+		.filenesting.json = .filenesting.json
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtentReports.Core", "..\..\..\..\Source Code\extentreports-csharp-master\ExtentReports\ExtentReports.Core\ExtentReports.Core.csproj", "{251C46BA-1FC7-4047-BE48-3358CAFE3BEC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Console", "Console", "{9C7504D4-632B-485F-AD70-9E2C25D2B2BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aura.TestConsole", "Console\Aura.Console\Aura.TestConsole\Aura.TestConsole.csproj", "{53720F14-7484-4440-ACA2-CFAC681F4DCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99DBA9C9-2EC4-496E-BD4E-3357626719B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99DBA9C9-2EC4-496E-BD4E-3357626719B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99DBA9C9-2EC4-496E-BD4E-3357626719B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99DBA9C9-2EC4-496E-BD4E-3357626719B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34D27727-5259-495F-AE57-DEFCA493BC3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34D27727-5259-495F-AE57-DEFCA493BC3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34D27727-5259-495F-AE57-DEFCA493BC3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34D27727-5259-495F-AE57-DEFCA493BC3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30A85AD4-42E8-433F-9592-68F1F2E6D2CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30A85AD4-42E8-433F-9592-68F1F2E6D2CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30A85AD4-42E8-433F-9592-68F1F2E6D2CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30A85AD4-42E8-433F-9592-68F1F2E6D2CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DF79FAE-8B56-4ABA-98AD-2CC4167EA962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DF79FAE-8B56-4ABA-98AD-2CC4167EA962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DF79FAE-8B56-4ABA-98AD-2CC4167EA962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DF79FAE-8B56-4ABA-98AD-2CC4167EA962}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9344D6BF-5BDD-4750-BFD7-EFC38F097BF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9344D6BF-5BDD-4750-BFD7-EFC38F097BF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9344D6BF-5BDD-4750-BFD7-EFC38F097BF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9344D6BF-5BDD-4750-BFD7-EFC38F097BF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{251C46BA-1FC7-4047-BE48-3358CAFE3BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{251C46BA-1FC7-4047-BE48-3358CAFE3BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{251C46BA-1FC7-4047-BE48-3358CAFE3BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{251C46BA-1FC7-4047-BE48-3358CAFE3BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53720F14-7484-4440-ACA2-CFAC681F4DCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53720F14-7484-4440-ACA2-CFAC681F4DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53720F14-7484-4440-ACA2-CFAC681F4DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53720F14-7484-4440-ACA2-CFAC681F4DCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{99DBA9C9-2EC4-496E-BD4E-3357626719B0} = {12DEC587-FB32-49A1-9B99-32890346A5AF}
+		{34D27727-5259-495F-AE57-DEFCA493BC3A} = {12DEC587-FB32-49A1-9B99-32890346A5AF}
+		{30A85AD4-42E8-433F-9592-68F1F2E6D2CC} = {684EBD0D-859E-4BAA-B24D-1376CCCB55A1}
+		{7DF79FAE-8B56-4ABA-98AD-2CC4167EA962} = {684EBD0D-859E-4BAA-B24D-1376CCCB55A1}
+		{9344D6BF-5BDD-4750-BFD7-EFC38F097BF8} = {65B1DC3A-8463-4820-A774-35F5B796AEC2}
+		{251C46BA-1FC7-4047-BE48-3358CAFE3BEC} = {3C1479AD-3F4F-4C98-A934-91CC8E2083E4}
+		{53720F14-7484-4440-ACA2-CFAC681F4DCE} = {9C7504D4-632B-485F-AD70-9E2C25D2B2BE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5438CB01-FA58-47A5-AADF-F3D5A5C664D5}
+	EndGlobalSection
+EndGlobal

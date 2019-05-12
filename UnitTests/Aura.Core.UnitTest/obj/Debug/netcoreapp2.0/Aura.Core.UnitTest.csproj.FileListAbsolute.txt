@@ -1,0 +1,17 @@
+D:\Aurigo\AURA\Aurigo.AURA\UnitTests\Aurigo.Aura.Core.UnitTest\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Aurigo\AURA\Aurigo.AURA\UnitTests\Aurigo.Aura.Core.UnitTest\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Aurigo\AURA\Aurigo.AURA\UnitTests\Aurigo.Aura.Core.UnitTest\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\Aurigo\AURA\Aurigo.AURA\UnitTests\Aurigo.Aura.Core.UnitTest\bin\Debug\netcoreapp2.0\Aura.Core.UnitTest.deps.json
+D:\Aurigo\AURA\Aurigo.AURA\UnitTests\Aurigo.Aura.Core.UnitTest\bin\Debug\netcoreapp2.0\Aura.Core.UnitTest.runtimeconfig.json
+D:\Aurigo\AURA\Aurigo.AURA\UnitTests\Aurigo.Aura.Core.UnitTest\bin\Debug\netcoreapp2.0\Aura.Core.UnitTest.runtimeconfig.dev.json
+D:\Aurigo\AURA\Aurigo.AURA\UnitTests\Aurigo.Aura.Core.UnitTest\bin\Debug\netcoreapp2.0\Aura.Core.UnitTest.dll
+D:\Aurigo\AURA\Aurigo.AURA\UnitTests\Aurigo.Aura.Core.UnitTest\bin\Debug\netcoreapp2.0\Aura.Core.UnitTest.pdb
+D:\Aurigo\AURA\Aurigo.AURA\UnitTests\Aurigo.Aura.Core.UnitTest\obj\Debug\netcoreapp2.0\Aura.Core.UnitTest.csprojAssemblyReference.cache
+D:\Aurigo\AURA\Aurigo.AURA\UnitTests\Aurigo.Aura.Core.UnitTest\obj\Debug\netcoreapp2.0\Aura.Core.UnitTest.csproj.CoreCompileInputs.cache
+D:\Aurigo\AURA\Aurigo.AURA\UnitTests\Aurigo.Aura.Core.UnitTest\obj\Debug\netcoreapp2.0\Aura.Core.UnitTest.AssemblyInfoInputs.cache
+D:\Aurigo\AURA\Aurigo.AURA\UnitTests\Aurigo.Aura.Core.UnitTest\obj\Debug\netcoreapp2.0\Aura.Core.UnitTest.AssemblyInfo.cs
+D:\Aurigo\AURA\Aurigo.AURA\UnitTests\Aurigo.Aura.Core.UnitTest\obj\Debug\netcoreapp2.0\Aura.Core.UnitTest.dll
+D:\Aurigo\AURA\Aurigo.AURA\UnitTests\Aurigo.Aura.Core.UnitTest\obj\Debug\netcoreapp2.0\Aura.Core.UnitTest.pdb
+D:\Aurigo\AURA\Aurigo.AURA\UnitTests\Aurigo.Aura.Core.UnitTest\bin\Debug\netcoreapp2.0\Aura.Core.dll
+D:\Aurigo\AURA\Aurigo.AURA\UnitTests\Aurigo.Aura.Core.UnitTest\bin\Debug\netcoreapp2.0\Aura.Core.pdb
+D:\Aurigo\AURA\Aurigo.AURA\UnitTests\Aurigo.Aura.Core.UnitTest\obj\Debug\netcoreapp2.0\Aura.Core.UnitTest.csproj.CopyComplete

@@ -1,0 +1,78 @@
+﻿
+<style type="text/css">
+    .panesContainer {
+        padding-top: 20px;
+        height: 100%;
+    }
+
+    .panes {
+        height: 100%;
+    }
+</style>
+<div class="panesContainer">
+    <div id="panes" class="ui-layout-container panes">
+        <div id="leftPane" class="ui-layout-west">
+            <div>
+                Navigate
+            </div>
+            <div>
+                SetValue
+            </div>
+            <div>
+                Click
+            </div>
+        </div>
+        <div id="centerPane" class="ui-layout-center">
+            <div>
+                Center
+            </div>
+        </div>
+        <div id="rightPane" class="ui-layout-east">Right</div>
+    </div>
+    </
+</div>
+<script src="~/lib/jquery-layout/js/jquery.layout.js"></script>
+<script>
+    $(document).ready(function () {
+        $('#panes').layout({
+            applyDefaultStyles: true,
+            resizable: true
+        });
+    });
+</script>
+@*<script src="~/lib/smooth-dnd/js/smooth-dnd.js"></script>*@
+<script type="module">
+    import { SmoothDnD } from '/lib/smooth-dnd/js/smooth-dnd.js';
+
+    
+    @*var containerElement = $('#leftPane');
+        var dropContainer = $('#centerPane');
+
+        var container = SmoothDnD.default(containerElement[0],
+            {
+                orientation: "vertical",
+                behaviour: "copy",
+                groupName: "a",
+                onDrop: function (dropResult) {
+                    debugger;
+                },
+                onDragEnd: function (a, b, c) {
+                    debugger;
+                }
+            });
+
+        var container2 = SmoothDnD.default(dropContainer[0],
+            {
+                orientation: "vertical",
+                behaviour: "copy",
+                groupName: "a",
+                onDrop: function (dropResult) {
+                    const { removedIndex, addedIndex, payload, element } = dropResult;
+                    debugger;
+                },
+                shouldAcceptDrop: function () {
+                    return true;
+                },
+
+            });*@
+</script>

@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <AssemblyName>Aura.Common</AssemblyName>
+    <RootNamespace>Aura.Common</RootNamespace>
+  </PropertyGroup>
+
+</Project>

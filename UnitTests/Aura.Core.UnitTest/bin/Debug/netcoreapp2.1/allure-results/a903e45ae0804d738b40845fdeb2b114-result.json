@@ -1,0 +1,18 @@
+{
+  "uuid": "1.1",
+  "labels": [],
+  "links": [],
+  "name": "Test Case 1",
+  "status": "none",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "running",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1539167831631,
+  "stop": 0
+}

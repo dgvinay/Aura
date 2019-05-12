@@ -1,0 +1,14 @@
+D:\Aurigo\AURA\Aurigo.AURA\Framework\Aurigo.Aura.Core\obj\Debug\netcoreapp2.0\Aura.Core.csproj.CoreCompileInputs.cache
+D:\Aurigo\AURA\Aurigo.AURA\Framework\Aurigo.Aura.Core\obj\Debug\netcoreapp2.0\Aura.Core.AssemblyInfoInputs.cache
+D:\Aurigo\AURA\Aurigo.AURA\Framework\Aurigo.Aura.Core\obj\Debug\netcoreapp2.0\Aura.Core.AssemblyInfo.cs
+D:\Aurigo\AURA\Aurigo.AURA\Framework\Aurigo.Aura.Core\bin\Debug\netcoreapp2.0\Aura.Core.deps.json
+D:\Aurigo\AURA\Aurigo.AURA\Framework\Aurigo.Aura.Core\bin\Debug\netcoreapp2.0\Aura.Core.dll
+D:\Aurigo\AURA\Aurigo.AURA\Framework\Aurigo.Aura.Core\bin\Debug\netcoreapp2.0\Aura.Core.pdb
+D:\Aurigo\AURA\Aurigo.AURA\Framework\Aurigo.Aura.Core\obj\Debug\netcoreapp2.0\Aura.Core.dll
+D:\Aurigo\AURA\Aurigo.AURA\Framework\Aurigo.Aura.Core\obj\Debug\netcoreapp2.0\Aura.Core.pdb
+D:\Aurigo\AURA\Aurigo.AURA\Framework\Aurigo.Aura.Core\obj\Debug\netcoreapp2.0\Aura.Core.csprojAssemblyReference.cache
+D:\Aurigo\AURA\Aurigo.AURA\Framework\Aurigo.Aura.Core\bin\Debug\netcoreapp2.0\ExtentReports.Core.dll
+D:\Aurigo\AURA\Aurigo.AURA\Framework\Aurigo.Aura.Core\bin\Debug\netcoreapp2.0\RazorEngine.dll
+D:\Aurigo\AURA\Aurigo.AURA\Framework\Aurigo.Aura.Core\bin\Debug\netcoreapp2.0\System.Web.Razor.dll
+D:\Aurigo\AURA\Aurigo.AURA\Framework\Aurigo.Aura.Core\bin\Debug\netcoreapp2.0\ExtentReports.Core.dll.config
+D:\Aurigo\AURA\Aurigo.AURA\Framework\Aurigo.Aura.Core\obj\Debug\netcoreapp2.0\Aura.Core.csproj.CopyComplete

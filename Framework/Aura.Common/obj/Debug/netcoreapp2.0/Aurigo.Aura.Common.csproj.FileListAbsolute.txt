@@ -1,0 +1,9 @@
+D:\Aurigo\AURA\Aurigo.AURA\Framework\Aurigo.Aura.Common\bin\Debug\netcoreapp2.0\Aurigo.Aura.Common.deps.json
+D:\Aurigo\AURA\Aurigo.AURA\Framework\Aurigo.Aura.Common\bin\Debug\netcoreapp2.0\Aurigo.Aura.Common.dll
+D:\Aurigo\AURA\Aurigo.AURA\Framework\Aurigo.Aura.Common\bin\Debug\netcoreapp2.0\Aurigo.Aura.Common.pdb
+D:\Aurigo\AURA\Aurigo.AURA\Framework\Aurigo.Aura.Common\obj\Debug\netcoreapp2.0\Aurigo.Aura.Common.csproj.CoreCompileInputs.cache
+D:\Aurigo\AURA\Aurigo.AURA\Framework\Aurigo.Aura.Common\obj\Debug\netcoreapp2.0\Aurigo.Aura.Common.AssemblyInfoInputs.cache
+D:\Aurigo\AURA\Aurigo.AURA\Framework\Aurigo.Aura.Common\obj\Debug\netcoreapp2.0\Aurigo.Aura.Common.AssemblyInfo.cs
+D:\Aurigo\AURA\Aurigo.AURA\Framework\Aurigo.Aura.Common\obj\Debug\netcoreapp2.0\Aurigo.Aura.Common.dll
+D:\Aurigo\AURA\Aurigo.AURA\Framework\Aurigo.Aura.Common\obj\Debug\netcoreapp2.0\Aurigo.Aura.Common.pdb
+D:\Aurigo\AURA\Aurigo.AURA\Framework\Aurigo.Aura.Common\obj\Debug\netcoreapp2.0\Aurigo.Aura.Common.csprojAssemblyReference.cache
